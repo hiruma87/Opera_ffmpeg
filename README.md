@@ -1,4 +1,8 @@
 # Opera_ffmpeg
+
+## Credit
+Ld-Hagen: [Ld-Hagen Github](https://github.com/Ld-Hagen)
+
 ### Fix Opera Linux libffmpeg & WidevineCdm
 
 * Fixes Opera html5 media content including DRM-protected one.
@@ -62,5 +66,4 @@
 
     `sudo ./uninstall.sh`
 
-## Credit
-Ld-Hagen: `https://github.com/Ld-Hagen`
+
