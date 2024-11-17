@@ -45,36 +45,52 @@ Ld-Hagen: [Ld-Hagen Github](https://github.com/Ld-Hagen)
 
 1. Clone this repo
 
-    `git clone https://github.com/Ld-Hagen/fix-opera-linux-ffmpeg-widevine.git`
+    ```
+    git clone https://github.com/Ld-Hagen/fix-opera-linux-ffmpeg-widevine.git
+    ```
 
-2. Go to the repo root folder
+3. Go to the repo root folder
 
-    `cd ./fix-opera-linux-ffmpeg-widevine`
+    ```
+    cd ./fix-opera-linux-ffmpeg-widevine
+    ```
 
-3. (*Optional*) Run script. And if it works well go to next step.
+5. (*Optional*) Run script. And if it works well go to next step.
 
-    `sudo ./scripts/fix-opera.sh`
+    ```
+    sudo ./scripts/fix-opera.sh
+    ```
 
-4. Run install script and answer few questions.
+7. Run install script and answer few questions.
 
-    `sudo ./install.sh`
+    ```
+    sudo ./install.sh
+    ```
 
 ## How to uninstall
 
 1. Clone this repo
 
-    `cd /tmp && git clone https://github.com/Ld-Hagen/fix-opera-linux-ffmpeg-widevine.git`
+    ```
+    cd /tmp && git clone https://github.com/Ld-Hagen/fix-opera-linux-ffmpeg-widevine.git
+    ```
 
-2. Go to the repo root folder
+3. Go to the repo root folder
 
-    `cd /tmp/fix-opera-linux-ffmpeg-widevine`
+    ```
+    cd /tmp/fix-opera-linux-ffmpeg-widevine
+    ```
 
-3. Make uninstall.sh executable
+5. Make uninstall.sh executable
 
-   `chmod +x uninstall.sh`
+   ```
+   chmod +x uninstall.sh
+   ```
 
-5. Run uninstallation script. And if it works well go to next step.
+7. Run uninstallation script. And if it works well go to next step.
 
-    `sudo ./uninstall.sh`
+    ```
+    sudo ./uninstall.sh
+    ```
 
 
