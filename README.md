@@ -37,7 +37,9 @@ Ld-Hagen: [Ld-Hagen Github](https://github.com/Ld-Hagen)
 	```
 	
 3. (*Optional*) **python3-dnf-plugin-post-transaction-actions** (Is needed for autoupdate in RedHat-based systems)
-	`dnf install python3-dnf-plugin-post-transaction-actions`
+	```
+	dnf install python3-dnf-plugin-post-transaction-actions
+ 	```
 
 ## Usage
 
