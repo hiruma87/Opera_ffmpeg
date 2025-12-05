@@ -52,7 +52,7 @@ Ld-Hagen: [Ld-Hagen Github](https://github.com/Ld-Hagen)
 3. Go to the repo root folder
 
     ```
-    cd ./fix-opera-linux-ffmpeg-widevine
+    cd fix-opera-linux-ffmpeg-widevine
     ```
 
 5. (*Optional*) Run script. And if it works well go to next step.
